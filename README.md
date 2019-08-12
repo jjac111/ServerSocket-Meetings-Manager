@@ -1,3 +1,9 @@
+Socket Server application for managing meetings between employees. Each employee has a running server. The Central Server is the one that manages meetings. A client application allows employees to login with the Central Server, see their meetings, book new meetings or edit existing ones, after which the Central Server notifies all other running employee servers to update their respective meetings data. 
+
+Code was developed in Java using the Observer pattern mixed with Mediator pattern. Each folder is an individual Netbeans project. Source code is under src/. Executable is under dist/.
+
+
+
 Final Project
 
 Juan Javier Arosemena
