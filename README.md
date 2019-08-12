@@ -2,6 +2,7 @@ Socket Server application for managing meetings between employees. Each employee
 
 Code was developed in Java using the Observer pattern mixed with Mediator pattern. Each folder is an individual Netbeans project. Source code is under src/. Executable is under dist/.
 
+Only 2 employee servers included since the code is the same, only the meetings file and socket port changes.
 
 
 Final Project
